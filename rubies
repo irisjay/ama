@@ -1,0 +1,15 @@
+fetch and update packages on demand.
+    keep track of version? no. im simple.
+    
+    just keep track of where to get me. no additional transforms.
+    
+    how about recursive dependencies?
+        in npm, the linking is done in code, dynamically.
+        here its quite static.
+        will recursive structures even be supported?
+        how are recursive stuff useful anyway?
+        you can you them to import a big thing monolithically, encapsulating the details.
+        but you will pollute the namespace.
+        so its a sin, basically.
+        
+        lets just support simple files. as of now.
