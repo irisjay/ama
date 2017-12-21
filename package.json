@@ -1,6 +1,6 @@
 {
   "name": "jade-ama",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "diver for jade",
   "main": "ama.js",
   "scripts": {
