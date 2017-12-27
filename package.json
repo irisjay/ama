@@ -1,6 +1,6 @@
 {
   "name": "jade-ama",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "diver for jade",
   "main": "ama.js",
   "scripts": {
@@ -14,5 +14,9 @@
   "dependencies": {
     "get-stdin": "^5.0.1",
     "node-fetch": "^1.7.3"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/irisjay/jade-ama.git"
   }
 }
